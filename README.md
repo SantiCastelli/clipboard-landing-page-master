@@ -2,6 +2,11 @@
 
 ![Design preview for the Clipboard landing page coding challenge](./design/desktop-preview.jpg)
 
+## Developers
+
+Míriam Feijoo Lorden  
+Santiago Tomás Castelli  
+
 ## Welcome! 👋 .
 
 Thanks for checking out this front-end coding challenge.
